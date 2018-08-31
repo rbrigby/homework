@@ -1,0 +1,16 @@
+{
+  "name": "HomeWork",
+  "version": "1.0",
+  "description": "Open Graph Viewer Example!",
+  "permissions": ["tabs", "activeTab", "declarativeContent", "storage"],
+  "content_scripts": [
+    {
+      "matches": ["*://*/*opengraph=true*"],
+      "css": ["modal.css"],
+      "js": ["modal.js"],
+      "all_frames": true
+    }
+  ],
+  "web_accessible_resources": ["modal.css"],
+  "manifest_version": 2
+}
