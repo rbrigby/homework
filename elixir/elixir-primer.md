@@ -4,6 +4,7 @@
 * [elixer lang](https://elixir-lang.org/getting-started/introduction.html)
 * [phoenix framework](https://hexdocs.pm/phoenix/api-reference.html)
 * [ecto](https://hexdocs.pm/ecto/Ecto.html)
+* [ecto cheatsheet](https://devhints.io/phoenix-migrations)
 
 ### create new phx app
 ```mix phx.new hello```
