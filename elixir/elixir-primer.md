@@ -1,7 +1,9 @@
 
 # Elixir Primer
-[https://elixir-lang.org/getting-started/introduction.html]
-[https://hexdocs.pm/phoenix/api-reference.html]
+
+* [elixer lang](https://elixir-lang.org/getting-started/introduction.html)
+* [phoenix framework](https://hexdocs.pm/phoenix/api-reference.html)
+* [ecto](https://hexdocs.pm/ecto/Ecto.html)
 
 ### create new phx app
 ```mix phx.new hello```
