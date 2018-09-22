@@ -10,7 +10,7 @@
 ```mix phx.gen.html Zombie zombies name```
 
 ### the migrations are inside
-````project/priv/repo/migrations```
+```project/priv/repo/migrations```
 
 ### run migrations
 ```mix ecto.migrate```
