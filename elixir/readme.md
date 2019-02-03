@@ -1,5 +1,5 @@
 
-# Elixir Primer
+# Elixir Notes
 
 * [elixer lang](https://elixir-lang.org/getting-started/introduction.html)
 * [elixir cheatsheet](https://devhints.io/phoenix)
