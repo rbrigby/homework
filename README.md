@@ -7,7 +7,7 @@
 
 
 
-# Releases
+# Lang Releases
 
 - Elixir - [https://elixir-lang.org/blog/categories.html#Releases]
 - Node - [https://nodejs.org/en/about/releases/]
