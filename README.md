@@ -19,3 +19,9 @@
 
 - Bundler - https://rubygems.org/gems/bundler/versions
 - RVM - https://github.com/rvm/rvm/releases
+
+### Package Docs
+
+- Typescript - https://www.typescriptlang.org/docs/home.html
+
+
