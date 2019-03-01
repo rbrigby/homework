@@ -7,17 +7,13 @@
 
 
 
-### Lang Releases
+### Releases
 
+- Bundler - https://rubygems.org/gems/bundler/versions
 - Elixir - [https://elixir-lang.org/blog/categories.html#Releases]
 - Node - [https://nodejs.org/en/about/releases/]
 - Rails - [https://rubygems.org/gems/rails/versions]
 - Ruby - [https://www.ruby-lang.org/en/downloads/releases/]
-
-
-### Package Releases
-
-- Bundler - https://rubygems.org/gems/bundler/versions
 - RVM - https://github.com/rvm/rvm/releases
 
 ### Package Docs
