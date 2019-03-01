@@ -16,7 +16,7 @@
 - Ruby - [https://www.ruby-lang.org/en/downloads/releases/]
 - RVM - https://github.com/rvm/rvm/releases
 
-### Package Docs
+### Docs
 
 - Typescript - https://www.typescriptlang.org/docs/home.html
 
