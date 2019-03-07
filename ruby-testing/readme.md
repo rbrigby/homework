@@ -2,7 +2,7 @@
 # Ruby Testing
 
 ## Guides
-* [Factory Bot Getting Started](https://github.com/thoughtbot/factory_bot/blob/master/GETTING_STARTED.md) - fixture replacment for ruby applications
+* [Factory Bot Getting Started](https://github.com/thoughtbot/factory_bot/blob/master/GETTING_STARTED.md) - fixture replacement for ruby applications
 * [ROR Guides - Testing](https://guides.rubyonrails.org/testing.html) - official rails guide page dedicated to testing.
 * [Factory Bot Best Practices](https://blog.codeship.com/factory-girl-best-practices/) - 7 minute video introduces factory_bot and shows moving from fixtures to factories
 * [Random vs Sorted Tests](https://guides.rubyonrails.org/upgrading_ruby_on_rails.html#activesupport-testcase-default-test-order-is-now-random) - Rails 5 added `:random` test ordering. This can be set back to `:sorted` if necessary
